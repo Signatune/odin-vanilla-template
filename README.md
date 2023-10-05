@@ -1,0 +1,1 @@
+# odin-vanilla-template
